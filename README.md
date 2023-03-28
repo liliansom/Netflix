@@ -13,15 +13,15 @@ Para realizar esta apresentação de dados foram utilizados: SQL e Power BI.<br>
 O SQL Server será utilizada para importar os dados e, também, para tratar os dados. O Power BI será utilizado para a apresentação dos dados de maneira que o usuário possa interagir com a informação.<br>
 
 Desenvolvido com:<br>
-<li>Dados Netflix: Retirados do Kaggle, </li>
-<li>SQL Server: </li>
-<li>Power BI:  </li>
+<li>Dados Netflix: Retirados do Kaggle, https://www.kaggle.com/datasets/shivamb/netflix-shows</li>
+<li>SQL Server: https://www.microsoft.com/pt-br/sql-server/sql-server-downloads</li>
+<li>Power BI: https://powerbi.microsoft.com/pt-br/downloads/</li>
 
 Este projeto será uma grande oportunidade para realizar a utilização do Power BI e SQL Server para analisar, tratar, realizar os relacionamentos entre os dados e devolver os dados para o usuário final. <br>
 
 
 # Arquivos
-Todos os arquivos utilizados para a construção deste projeto está disponível neste repositório.<br>
+Todos os arquivos utilizados para a construção deste projeto está disponível neste repositório na pasta 'data'.<br>
 
 
 ## Acessando o Projeto:
