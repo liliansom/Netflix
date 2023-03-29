@@ -10,7 +10,8 @@ Venha conferir esta apresentação dos filmes do Netflix e veja se ele é um str
 
 ## Informações
 Para realizar esta apresentação de dados foram utilizados: SQL e Power BI.<br>
-O SQL Server será utilizada para importar os dados e, também, para tratar os dados. O Power BI será utilizado para a apresentação dos dados de maneira que o usuário possa interagir com a informação.<br>
+O SQL Server será utilizado para importar os dados, visualiza-los e trata-los. <br>
+O Power BI será utilizado para a apresentação dos dados de maneira que o usuário possa interagir com a informação.<br>
 
 Desenvolvido com:<br>
 <li>Dados Netflix: Retirados do Kaggle, https://www.kaggle.com/datasets/shivamb/netflix-shows</li>
@@ -33,11 +34,11 @@ Entre na Microsoft Store e faça o download do Power BI Desktop.
 <a class="nav-link" href="https://github.com/liliansom/Netflix/blob/main/Netflix.pbix" target="_blank">Clique aqui!</a><br>
 
 
-<img src="img/tela2.png">
+<img src="img/tela2.jpg" width="60%">
 
-<img src="img/tela3.png">
+<img src="img/tela3.jpg" width="60%">
 
-<img src="img/tela4.png">
+<img src="img/tela4.jpg" width="60%">
 
 
 # Andamento do projeto:
