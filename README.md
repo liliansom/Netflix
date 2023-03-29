@@ -27,13 +27,18 @@ Todos os arquivos utilizados para a construção deste projeto está disponível
 ## Acessando o Projeto:
 
 1) Power BI<br>
-Quer dar uma conferida neste apresentação?<br>
-<a class="nav-link" href="https://github.com/liliansom/GOAT/blob/main/GOAT_PBI.pbix" target="_blank">Clique aqui!</a><br>
+Quer dar uma conferida nos dados utilizados?<br>
+Você irá precisar realizar o download do Power BI em seu computador para conseguir visualizar este arquivo...<br>
+Entre na Microsoft Store e faça o download do Power BI Desktop.
+<a class="nav-link" href="https://github.com/liliansom/Netflix/blob/main/Netflix.pbix" target="_blank">Clique aqui!</a><br>
 
 
-<img src="img/.png">
+<img src="img/tela2.png">
+
+<img src="img/tela3.png">
+
+<img src="img/tela4.png">
 
 
 # Andamento do projeto:
-Em Andamento.<br>
-Data de entrega: 29/03/2023.<br>
+Entregue.<br>
