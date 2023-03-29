@@ -1,7 +1,7 @@
 # Netflix
 ## Apresentação
 A Netflix é um serviço de streaming que oferece uma ampla variedade de séries, filmes e documentários premiados em milhares de aparelhos conectados à internet.<br>
-Será que vale a pena para você assiná-la?<br>
+Será que vale a pena para você assiná-lo?<br>
 Quantos filmes do seu diretor preferido estão disponíveis na plataforma?<br>
 Será que tem aquele anime que você gosta?<br>
 Ou aquele seriado novo que todo mundo está falando?<br>
@@ -29,9 +29,10 @@ Todos os arquivos utilizados para a construção deste projeto está disponível
 
 1) Power BI<br>
 Quer dar uma conferida nos dados utilizados?<br>
+<a class="nav-link" href="https://github.com/liliansom/Netflix/blob/main/Netflix.pbix" target="_blank">Clique aqui!</a><br>
+
 Você irá precisar realizar o download do Power BI em seu computador para conseguir visualizar este arquivo...<br>
 Entre na Microsoft Store e faça o download do Power BI Desktop.
-<a class="nav-link" href="https://github.com/liliansom/Netflix/blob/main/Netflix.pbix" target="_blank">Clique aqui!</a><br>
 
 
 <img src="img/tela2.jpg" width="60%">
